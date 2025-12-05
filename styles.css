@@ -1,0 +1,10 @@
+.divPai {
+    display: flex;
+    height: 100vh;
+}
+
+.container {
+    background-color: aqua;
+    width: 88%;
+    margin: 0 auto;
+}
